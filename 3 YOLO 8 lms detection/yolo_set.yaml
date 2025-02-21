@@ -1,0 +1,12 @@
+names:
+  0: A01_r
+  1: A02_r
+  2: F23_r
+  3: F24_r
+  4: A01_l
+  5: A02_l
+  6: F23_l
+  7: F24_l
+path: yolo_8
+train: train/images
+val: val/images

@@ -1,0 +1,12 @@
+names:
+  0: LIST_A01_r.npy
+  1: LIST_A02_r.npy
+  2: LIST_F23_r.npy
+  3: LIST_F24_r.npy
+  4: LIST_A01_l.npy
+  5: LIST_A02_l.npy
+  6: LIST_F23_l.npy
+  7: LIST_F24_l.npy
+path: yolo_segm_full_8lms
+train: train/images
+val: val/images

@@ -1,0 +1,23 @@
+OUTPUT:
+    OUTPUT_DIR: "datasets/xrays/results"
+
+SOLVER:
+    DATA_LOADER_BATCH_SIZE_TRAIN: 32
+    SEED: 123
+
+DATASET:
+    NAME: XRAYS_4CH
+    ROOT: 'datasets/xrays/root_image_folder'
+    SRC_TARGETS: 'datasets/xrays/downsampled_metadata.json'
+    LANDMARKS : [0,1,2,3,4,5,6,7,]
+
+TRAINER:
+    INFERENCE_ONLY: False
+    PERFORM_VALIDATION: True
+    CACHE_DATA: True
+    FOLD: -1 #no cv
+
+
+SAMPLER:
+    INPUT_SIZE : [512,512]
+    DATA_AUG: "AffineComplex"

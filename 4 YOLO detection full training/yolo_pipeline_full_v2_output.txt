@@ -1,0 +1,80 @@
+                   all         15       1134      0.755      0.758       0.79       0.41
+Calibration_Ball_Filled.npy         15         15          1          1      0.995      0.882
+   Ilioisch_line_l.npy         15         15      0.962          1      0.995      0.752
+   Ilioisch_line_r.npy         15         15      0.957          1      0.995      0.759
+        LIST_A01_l.npy         15         15      0.404      0.363      0.464      0.175
+        LIST_A01_r.npy         15         15      0.607      0.733      0.715      0.239
+        LIST_A02_l.npy         15         15      0.846      0.733      0.815      0.368
+        LIST_A02_r.npy         15         15      0.655      0.761      0.806      0.347
+        LIST_F03_l.npy         15         15      0.856      0.933      0.939      0.405
+        LIST_F03_r.npy         15         15      0.767      0.733      0.832      0.408
+        LIST_F05_l.npy         15         15       0.96          1      0.995      0.433
+        LIST_F05_r.npy         15         15      0.833        0.8      0.835      0.347
+        LIST_F11_l.npy         15         15      0.609      0.667      0.769       0.37
+        LIST_F11_r.npy         15         15      0.534        0.6      0.694      0.286
+        LIST_F23_l.npy         15         15       0.97          1      0.995      0.331
+        LIST_F23_r.npy         15         15      0.805        0.8      0.926      0.366
+        LIST_F24_l.npy         15         15      0.625        0.6      0.738      0.292
+        LIST_F24_r.npy         15         15       0.63      0.733      0.629      0.216
+        LIST_F25_l.npy         15         15      0.692        0.6      0.611      0.284
+        LIST_F25_r.npy         15         15      0.671      0.815      0.825      0.353
+        LIST_F27_l.npy         15         15      0.711          1      0.886      0.394
+        LIST_F27_r.npy         15         15      0.554      0.733      0.614      0.259
+        LIST_F28_l.npy         15         15      0.605      0.667      0.664      0.283
+        LIST_F28_r.npy         15         15      0.651      0.498      0.564      0.244
+        LIST_F29_l.npy         15         15      0.749      0.867       0.87      0.407
+        LIST_F29_r.npy         15         15      0.633        0.8      0.803      0.405
+        LIST_F30_l.npy         15         15      0.775      0.689       0.78      0.361
+        LIST_F30_r.npy         15         15      0.591      0.667      0.676      0.305
+        LIST_F31_l.npy         15         15      0.667        0.6      0.726      0.314
+        LIST_F31_r.npy         14         14      0.472      0.429      0.472      0.177
+        LIST_F33_l.npy         15         15      0.641      0.333      0.499      0.119
+        LIST_F33_r.npy         15         15      0.532      0.333       0.42      0.177
+LIST_FemHead_med_l.npy         15         15       0.49      0.467      0.374      0.161
+LIST_FemHead_med_r.npy         15         15      0.806      0.554      0.774      0.261
+LIST_FemHead_super_l.npy         15         15      0.564        0.8      0.758      0.309
+LIST_FemHead_super_r.npy         15         15      0.707      0.803      0.881      0.345
+        LIST_P01_l.npy         15         15      0.682      0.533      0.781      0.311
+        LIST_P01_r.npy         15         15      0.805      0.828       0.77      0.363
+Linea_iliopectinea_l.npy         15         15      0.961      0.933      0.991      0.893
+Linea_iliopectinea_r.npy         15         15      0.956      0.933      0.985      0.851
+  Linea_terminalis.npy         15         15          1      0.979      0.995      0.943
+     PELVIS_AIIS_l.npy         15         15      0.335       0.17      0.313      0.139
+     PELVIS_AIIS_r.npy         15         15      0.623      0.552      0.699      0.354
+     PELVIS_ASIS_l.npy         12         12      0.779      0.583      0.601      0.261
+     PELVIS_ASIS_r.npy         13         13      0.825      0.385      0.529      0.198
+PELVIS_Ilioacetabular_r.npy         15         15      0.755      0.933      0.858      0.399
+PELVIS_Ilioacetabullar_l.npy          1          1          0          0          0          0
+PELVIS_Iliopectineal_l.npy         15         15      0.784        0.8      0.794      0.316
+PELVIS_Iliopectineal_r.npy         15         15      0.653      0.733      0.679      0.328
+PELVIS_Iliosacral_joint_l.npy         15         15      0.896      0.578      0.682      0.313
+PELVIS_Isch_tuber_infer_l.npy         15         15      0.993      0.867      0.896      0.355
+PELVIS_Isch_tuber_infer_r.npy         15         15      0.763      0.867      0.904      0.438
+PELVIS_Isch_tuber_poster_l.npy         15         15      0.804      0.467      0.618      0.278
+PELVIS_Isch_tuber_poster_r.npy         15         15       0.37      0.267      0.303      0.134
+PELVIS_Obtur_ilioischial_l.npy         15         15      0.909          1      0.995      0.465
+PELVIS_Obtur_ilioischial_r.npy         15         15      0.955        0.8      0.979      0.509
+PELVIS_Obtur_infer_pub_l.npy         15         15      0.757      0.867       0.86      0.306
+PELVIS_Obtur_infer_pub_r.npy         15         15       0.69      0.867      0.856      0.375
+PELVIS_Obtur_ischiopubic_l.npy         15         15      0.899      0.867      0.913      0.452
+PELVIS_Obtur_ischiopubic_r.npy         15         15      0.931      0.902      0.987       0.45
+PELVIS_Obtur_medial_l.npy         15         15       0.82       0.91      0.825      0.328
+PELVIS_Obtur_medial_r.npy         15         15      0.651        0.8      0.764      0.309
+PELVIS_Schiatic_notch_l.npy         15         15      0.599      0.699      0.756      0.307
+PELVIS_Schiatic_notch_r.npy         15         15      0.645      0.667      0.686      0.298
+PELVIS_Symph_infer_l.npy         15         15      0.666      0.932      0.844      0.372
+PELVIS_Symph_infer_r.npy         15         15      0.805      0.826      0.892      0.421
+PELVIS_Symph_super_l.npy         15         15      0.925      0.828      0.948      0.486
+PELVIS_Symph_super_r.npy         15         15      0.894      0.933      0.985      0.523
+     Pfannendach_l.npy         15         15      0.898      0.933       0.93      0.443
+     Pfannendach_r.npy         15         15      0.962          1      0.995       0.52
+    Shenton_line_l.npy         14         14      0.901          1      0.938      0.746
+    Shenton_line_r.npy         15         15      0.953          1      0.995      0.747
+  femur_cort_lat_l.npy         15         15      0.961          1      0.995      0.842
+  femur_cort_lat_r.npy         15         15          1          1      0.995      0.773
+  femur_cort_med_l.npy         15         15      0.961          1      0.995      0.697
+  femur_cort_med_r.npy         15         15          1          1      0.995      0.793
+           ilium_l.npy         15         15      0.938          1      0.979      0.693
+           ilium_r.npy         15         15      0.938          1      0.995      0.673
+Speed: 0.7ms preprocess, 7.9ms inference, 0.0ms loss, 12.4ms postprocess per image
+Results saved to [1mruns/detect/val2[0m
